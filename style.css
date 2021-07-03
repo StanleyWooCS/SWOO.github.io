@@ -1,0 +1,43 @@
+/* my styles */
+
+.acm-logo
+{
+    width: 250px;
+}
+#header
+{
+    color: blue;
+}
+.contact-box
+{
+    border: 1px solid black;
+    font-family:"Comic Sans MS";
+    font-weight: bold;
+}
+.info-box
+{
+    padding: 30px;
+    border: 1px solid black;
+}
+.grid-2
+{
+    display: grid;
+    grid-template-columns: 200px auto;
+}
+.colin-is-cool
+{
+    padding: 10px;
+}
+.navbar
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    border-bottom: 1px solid black;
+    background-color: white; 
+}
+
+.fixed-top
+{
+    position:fixed;
+    top:0;
+}
